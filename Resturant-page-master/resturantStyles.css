@@ -1,0 +1,24 @@
+/*
+Name: Stephen Ryan
+Date Created: 1/7/20
+ */
+header, footer {
+  background-color: purple;
+  color: black;
+  padding: 30px 10px 20px 30px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: helvetica;
+}
+nav .btn {
+  background-color: purple;
+}
+nav a:visited {
+  color: black;
+}
+nav a:hover {
+  font-weight: bold;
+}
+nav a:active {
+  text-decoration: none;
+}
